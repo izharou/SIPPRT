@@ -1,0 +1,21 @@
+{
+  "name": "bower.json",
+  "version": "1.0.0",
+  "description": "custom set assets",
+  "main": "bower.json",
+  "keywords": [
+    "none"
+  ],
+  "authors": [
+    "Kinta Mahadji"
+  ],
+  "license": "GPL",
+  "homepage": "http://kintamahadji.com",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
